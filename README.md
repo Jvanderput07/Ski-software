@@ -7,8 +7,8 @@ Skibeheer🎿
 This is Skibeheer an simple software to keep track of ski's and calculate ski sizes by height
 
 Features:
-Calculate ski[Done!]
-Notepad[Done!]
-Local database[Done!]
-View database[Done!]
-Track inventory[Under construction!]
+Calculate ski[Done!✅]
+Notepad[Done!✅]
+Local database[Done!✅]
+View database[Done!✅]
+Track inventory[Under construction!🚧]
