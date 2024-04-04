@@ -8,7 +8,11 @@ This is Skibeheer an simple software to keep track of ski's and calculate ski si
 
 Features:
 Calculate ski[Done!✅]
-Notepad[Done!✅]
+
+Notepad that saves[Done!✅]
+
 Local database[Done!✅]
+
 View database[Done!✅]
+
 Track inventory[Under construction!🚧]
