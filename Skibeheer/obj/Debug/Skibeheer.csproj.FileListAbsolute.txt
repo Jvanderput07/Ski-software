@@ -1,0 +1,10 @@
+C:\Users\frits\source\repos\Skibeheer\Skibeheer\bin\Debug\Skibeheer.exe.config
+C:\Users\frits\source\repos\Skibeheer\Skibeheer\bin\Debug\Skibeheer.exe
+C:\Users\frits\source\repos\Skibeheer\Skibeheer\bin\Debug\Skibeheer.pdb
+C:\Users\frits\source\repos\Skibeheer\Skibeheer\obj\Debug\Skibeheer.csproj.AssemblyReference.cache
+C:\Users\frits\source\repos\Skibeheer\Skibeheer\obj\Debug\Skibeheer.Form1.resources
+C:\Users\frits\source\repos\Skibeheer\Skibeheer\obj\Debug\Skibeheer.Properties.Resources.resources
+C:\Users\frits\source\repos\Skibeheer\Skibeheer\obj\Debug\Skibeheer.csproj.GenerateResource.cache
+C:\Users\frits\source\repos\Skibeheer\Skibeheer\obj\Debug\Skibeheer.csproj.CoreCompileInputs.cache
+C:\Users\frits\source\repos\Skibeheer\Skibeheer\obj\Debug\Skibeheer.exe
+C:\Users\frits\source\repos\Skibeheer\Skibeheer\obj\Debug\Skibeheer.pdb
